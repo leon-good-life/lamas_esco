@@ -1,0 +1,11 @@
+{
+  "name": "retrain.ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leon Gilyadov <leon.good.life@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1"
+  }
+}
